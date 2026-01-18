@@ -1,0 +1,15 @@
+# ninja log v6
+11	742	7903735486495470	park1_autogen/timestamp	a60198a64c982146
+11	742	7903735486495470	park1_autogen/mocs_compilation.cpp	a60198a64c982146
+11	742	7903735486495470	E:/Qt/park1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/park1_autogen/timestamp	a60198a64c982146
+11	742	7903735486495470	E:/Qt/park1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/park1_autogen/mocs_compilation.cpp	a60198a64c982146
+746	2985	7903735487429308	CMakeFiles/park1.dir/park1_autogen/mocs_compilation.cpp.obj	b933ce94070afdb3
+753	3057	7903735487490067	CMakeFiles/park1.dir/main.cpp.obj	2294d87d6a2607d7
+759	3907	7903735487554345	CMakeFiles/park1.dir/mainwindow.cpp.obj	fa7d864265e8b46a
+3908	4117	7903735519037262	park1.exe	ddc8db9928ab66f8
+17	200	7904006943764725	park1_autogen/timestamp	a60198a64c982146
+17	200	7904006943764725	park1_autogen/mocs_compilation.cpp	a60198a64c982146
+17	200	7904006943764725	E:/Qt/park1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/park1_autogen/timestamp	a60198a64c982146
+17	200	7904006943764725	E:/Qt/park1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/park1_autogen/mocs_compilation.cpp	a60198a64c982146
+201	2770	7904006945602967	CMakeFiles/park1.dir/mainwindow.cpp.obj	fa7d864265e8b46a
+2770	3050	7904006971291224	park1.exe	ddc8db9928ab66f8
